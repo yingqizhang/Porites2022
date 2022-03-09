@@ -1,6 +1,6 @@
 # Porites2022
 
-Data and code used to generate results in "Cross-generational heritability analysis of physiological traits in Porites astreoides across an inshore-offshore gradient in the Lower Florida Keys'
+Data and code used to generate results in "Cross-generational heritability analysis of physiological traits in Porites astreoides across an inshore-offshore gradient in the Lower Florida Keys" (bioRxiv link coming soon!)
 
 
 Files in this repository:
